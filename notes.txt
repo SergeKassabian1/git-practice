@@ -1,4 +1,4 @@
-Hello Git
+Hello Git from branch B
 learn git step by step
 This is my third change
 Login feature is progress
