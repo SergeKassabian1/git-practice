@@ -1,4 +1,4 @@
-git switch person-b-update
+GitHub Merge Fix A and B
 learn git step by step
 This is my third change
 Login feature is progress
